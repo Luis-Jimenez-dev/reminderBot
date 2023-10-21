@@ -91,3 +91,8 @@ A Discord bot designed to set reminders for users in a server.
    ```bash
    !list
    ```
+3. **Change Time Zones**
+``` bash
+!set_timezone [City, State, Country(optional)]
+!set_timezone New_York, New_York
+```
